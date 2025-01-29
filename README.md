@@ -1,6 +1,10 @@
 #  Glossay SwiftUI App
 
 A sleek and modern Food Delivery App built using SwiftUI. This app provides an intuitive user interface, a responsive layout with row and column images, and a smooth ordering experience.
+## Main App View
+
+
+
 
 | Main App View |                                                                     
 |---------------|
@@ -9,6 +13,7 @@ A sleek and modern Food Delivery App built using SwiftUI. This app provides an i
 |![3](https://github.com/user-attachments/assets/65994dcb-27f5-47df-b33e-4dd1b991ca37)|
 |![4](https://github.com/user-attachments/assets/4001af0d-1d4a-4a17-a9e1-222402317527)|
 |![5](https://github.com/user-attachments/assets/879340c2-33bd-44a5-816f-649eacfc7918)|
+
 
 
 ##  Screenshots
